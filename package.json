@@ -1,20 +1,8 @@
 {
-  "name": "throttleit",
+  "name": "component-throttle",
   "description": "Throttle a function",
   "version": "0.0.2",
   "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/component/throttle.git"
-  },
-  "devDependencies": {
-    "mocha": "^1.18.0"
-  },
-  "development": {},
-  "license": "MIT",
-  "component": {
-    "scripts": {
-      "throttle/index.js": "index.js"
-    }
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
